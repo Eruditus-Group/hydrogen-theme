@@ -38,7 +38,9 @@
         "button"
       ],
       "settings": {
-        "full_page_height_enable": true
+        "image": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
+        "image_2": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
+        "full_page_height_enable": false
       }
     },
     "featured_collection": {
