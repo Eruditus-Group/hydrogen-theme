@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js h-full" lang="{{ request.locale.iso_code }}">
   <head>
- {%- render 'ecom_header' -%}
+    {%- render 'ecom_header' -%}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -72,6 +72,7 @@
     <script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js')
     </script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   </head>
 
   <body class="grid min-h-full grid-cols-[100%] grid-rows-[auto_1fr_auto] font-body font-body-weight">
@@ -115,5 +116,6 @@
         unavailable: `{{ 'products.product.unavailable' | t }}`
       }
     </script>
-  {%- render "ecom_footer"-%}</body>
+    {%- render 'ecom_footer' -%}
+  </body>
 </html>
