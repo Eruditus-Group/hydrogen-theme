@@ -9,12 +9,57 @@
 */
 {
   "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "menu": "main-menu",
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "country_selector",
+            "settings": {
+              "heading": "Country"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+        }
+      }
+    },
     "content_for_index": [
 
     ],
     "blocks": {
       "13739172200877325563": {
         "type": "shopify://apps/weaverse-hydrogen/blocks/app-embed/c7f60bfa-c264-4b66-9443-17a891e89870",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "12016176150940211849": {
+        "type": "shopify://apps/ot-theme-sections/blocks/otsb-script/45c0d634-d78b-458c-8bca-17086e7d65aa",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11119278427475967885": {
+        "type": "shopify://apps/ot-theme-sections/blocks/otsb-style/45c0d634-d78b-458c-8bca-17086e7d65aa",
         "disabled": false,
         "settings": {
         }

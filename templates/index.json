@@ -97,12 +97,107 @@
         "collection": "",
         "products_to_show": 5
       }
+    },
+    "otsb_logo_list_2_MYecKx": {
+      "type": "otsb-logo-list-2",
+      "blocks": {
+        "logo_XhFXrQ": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_iMxMy7": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_HAyYXg": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_iLywFk": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_UdaWTm": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_8C9aAG": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_3Y6Agz": {
+          "type": "logo",
+          "settings": {
+            "image_link": "",
+            "open_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_XhFXrQ",
+        "logo_iMxMy7",
+        "logo_HAyYXg",
+        "logo_iLywFk",
+        "logo_UdaWTm",
+        "logo_8C9aAG",
+        "logo_3Y6Agz"
+      ],
+      "settings": {
+        "heading": "Logo list",
+        "heading_size": 50,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "corner_image": 6,
+        "show_border": false,
+        "image_ratio": "56",
+        "background_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "border_color": "rgba(0,0,0,0)",
+        "slider_button_color": "#242424",
+        "slider_button_hover_color": "#000000",
+        "slider_button_hover_text_color": "#FFFFFF",
+        "enable_carousel_on_desktop": true,
+        "auto_switch_bar": true,
+        "change_bar_every": 5,
+        "show_navigation": true,
+        "columns_desktop": 7,
+        "full_width": true,
+        "show_section_divider": false,
+        "spacing": 16,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "layout_mobile": "carousel",
+        "columns_mobile": "2",
+        "show_section_divider_mobile": false,
+        "spacing_mobile": 16,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
     "collection_list",
-    "featured_collection_QTMfgK"
+    "featured_collection_QTMfgK",
+    "otsb_logo_list_2_MYecKx"
   ]
 }
