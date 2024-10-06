@@ -20,6 +20,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "link_list_qQ4aVk": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -35,6 +42,7 @@
           }
         },
         "block_order": [
+          "link_list_qQ4aVk",
           "footer-0",
           "footer-1"
         ],
