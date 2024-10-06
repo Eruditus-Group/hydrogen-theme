@@ -133,6 +133,19 @@
   <div class="self-end pt-14 opacity-50 md:col-span-2 md:pt-8 lg:col-[span_var(--blocks-count)]">
     &copy; {{ 'now' | date: '%Y' }}, {{ shop.name | link_to: routes.root_url }}
     {{ powered_by_link }}
+
+    <!-- Enlaces a redes sociales con íconos -->
+    <div class="social-icons mt-4">
+      <a href="https://facebook.com/tu-pagina" target="_blank" aria-label="Facebook">
+        <i class="fab fa-facebook fa-lg"></i>
+      </a>
+      <a href="https://twitter.com/tu-pagina" target="_blank" aria-label="Twitter" class="ml-3">
+        <i class="fab fa-twitter fa-lg"></i>
+      </a>
+      <a href="https://instagram.com/tu-pagina" target="_blank" aria-label="Instagram" class="ml-3">
+        <i class="fab fa-instagram fa-lg"></i>
+      </a>
+    </div>
   </div>
 </footer>
 
