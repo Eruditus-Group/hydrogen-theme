@@ -62,7 +62,7 @@
         "headline_size": 40,
         "mobile_headline_size": 40,
         "headline_line_height": "inherit",
-        "text_color": "#111",
+        "text_color": "#111111",
         "link_color": "#005bd3",
         "show_on_device": "all",
         "section_background_color": "linear-gradient(319deg, rgba(226, 236, 253, 1) 13%, rgba(234, 253, 246, 1) 85%)",
@@ -80,22 +80,22 @@
         "container_radius": 0,
         "container_shadow": false,
         "container_border_size": 0,
-        "container_border_color": "#888",
+        "container_border_color": "#888888",
         "progress_background_color": "linear-gradient(177deg, rgba(255, 255, 255, .25) 3%, rgba(255, 255, 255, 0.25) 100%)",
         "progress_foreground_color": "linear-gradient(177deg, rgba(255, 255, 255, 1) 3%, rgba(255, 255, 255, 1) 100%)",
-        "indicator_color": "#fff",
+        "indicator_color": "#ffffff",
         "cover_background": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(85, 85, 85, 1) 100%)",
         "cover_opacity": 25,
         "caption_margin": 10,
         "caption_padding": 20,
-        "slide_text_color": "#111",
+        "slide_text_color": "#111111",
         "caption_background_color": "linear-gradient(177deg, rgba(255, 255, 255, .5) 3%, rgba(255, 255, 255, .85) 100%)",
         "show_glass_effect": true,
         "button_padding_tb": 10,
         "button_padding_lr": 25,
         "button_border_radius": 5,
         "button_background_color": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(51, 51, 51, 1) 100%)",
-        "button_text_color": "#fff",
+        "button_text_color": "#ffffff",
         "text_shadow": false,
         "media_radius": 5,
         "media_shadow": true,
@@ -139,8 +139,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
-        "image_2": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
         "full_page_height_enable": true
       }
     },
@@ -195,7 +193,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured collection",
-        "collection": "",
+        "collection": "accesorios",
         "products_to_show": 5
       }
     },
