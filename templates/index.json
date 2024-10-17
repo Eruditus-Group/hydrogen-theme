@@ -207,6 +207,7 @@
         "logo_XhFXrQ": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/Habitel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -295,14 +296,14 @@
         "enable_carousel_on_desktop": true,
         "auto_switch_bar": true,
         "change_bar_every": 5,
-        "show_navigation": true,
+        "show_navigation": false,
         "columns_desktop": 7,
         "full_width": true,
         "show_section_divider": false,
         "spacing": 16,
         "padding_top": 28,
         "padding_bottom": 28,
-        "layout_mobile": "carousel",
+        "layout_mobile": "stacked",
         "columns_mobile": "2",
         "show_section_divider_mobile": false,
         "spacing_mobile": 16,
