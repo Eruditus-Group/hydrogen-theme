@@ -142,7 +142,6 @@
 
       ],
       "settings": {
-        "image": "shopify://shop_images/224604872_xl_normal_none.jpg",
         "full_page_height_enable": true
       }
     },
@@ -207,7 +206,6 @@
         "logo_XhFXrQ": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Habitel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -215,7 +213,6 @@
         "logo_iMxMy7": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/South_Bank.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -223,7 +220,6 @@
         "logo_HAyYXg": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Villas_Blue_montain.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -231,7 +227,6 @@
         "logo_kNq6yK": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Radisson_Bogota_Metrotel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -239,7 +234,6 @@
         "logo_iLywFk": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Haceb-1.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -247,7 +241,6 @@
         "logo_UdaWTm": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/South_Bank.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -255,7 +248,6 @@
         "logo_8C9aAG": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Habitel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -263,7 +255,6 @@
         "logo_3Y6Agz": {
           "type": "logo",
           "settings": {
-            "image_logo": "shopify://shop_images/Villas_Blue_montain.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -287,7 +278,7 @@
         "corner_image": 6,
         "show_border": false,
         "image_ratio": "56",
-        "background_color": "#FAFAFA",
+        "background_color": "#fafafa",
         "heading_color": "rgba(0,0,0,0)",
         "border_color": "rgba(0,0,0,0)",
         "slider_button_color": "#242424",
@@ -310,6 +301,11 @@
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
       }
+    },
+    "shogun_custom_67106586772935466dc32876_DCYhcB": {
+      "type": "shogun-custom-67106586772935466dc32876",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -318,6 +314,7 @@
     "featured_collection",
     "collection_list",
     "featured_collection_QTMfgK",
-    "otsb_logo_list_2_MYecKx"
+    "otsb_logo_list_2_MYecKx",
+    "shogun_custom_67106586772935466dc32876_DCYhcB"
   ]
 }
