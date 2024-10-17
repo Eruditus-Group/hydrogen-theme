@@ -138,9 +138,12 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        "div {margin-top: -70px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/224604872_xl_normal_none.jpg",
-        "full_page_height_enable": true
+        "full_page_height_enable": false
       }
     },
     "featured_collection": {
