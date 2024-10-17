@@ -9,11 +9,12 @@
  */
 {
   "current": {
+    "colors_contrast": "#FAFAFA",
     "sections": {
       "header": {
         "type": "header",
         "custom_css": [
-          "header {margin-top: 20px; margin-left: 20px; margin-right: 20px; max-height:1300px;}"
+          "header {margin-top: 20px; max-height: 1300px; background-color:#222;}"
         ],
         "settings": {
           "menu": "main-menu",

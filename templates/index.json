@@ -211,6 +211,7 @@
         "logo_iMxMy7": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/South_Bank.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -218,6 +219,15 @@
         "logo_HAyYXg": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/Villas_Blue_montain.png",
+            "image_link": "",
+            "open_new_window": false
+          }
+        },
+        "logo_kNq6yK": {
+          "type": "logo",
+          "settings": {
+            "image_logo": "shopify://shop_images/Radisson_Bogota_Metrotel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -225,6 +235,7 @@
         "logo_iLywFk": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/Haceb-1.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -232,6 +243,7 @@
         "logo_UdaWTm": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/South_Bank.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -239,6 +251,7 @@
         "logo_8C9aAG": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/Habitel.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -246,6 +259,7 @@
         "logo_3Y6Agz": {
           "type": "logo",
           "settings": {
+            "image_logo": "shopify://shop_images/Villas_Blue_montain.png",
             "image_link": "",
             "open_new_window": false
           }
@@ -255,6 +269,7 @@
         "logo_XhFXrQ",
         "logo_iMxMy7",
         "logo_HAyYXg",
+        "logo_kNq6yK",
         "logo_iLywFk",
         "logo_UdaWTm",
         "logo_8C9aAG",
@@ -268,7 +283,7 @@
         "corner_image": 6,
         "show_border": false,
         "image_ratio": "56",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#FAFAFA",
         "heading_color": "rgba(0,0,0,0)",
         "border_color": "rgba(0,0,0,0)",
         "slider_button_color": "#242424",
