@@ -12,6 +12,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          "header {margin-top: 20px; margin-left:20px; margin-right:20px;}"
+        ],
         "settings": {
           "menu": "main-menu",
           "enable_sticky_header": true

@@ -51,6 +51,7 @@
         "slide_TDrjz7",
         "slide_kVWeQG"
       ],
+      "disabled": true,
       "settings": {
         "override_fonts": false,
         "headline_font": "sans-serif",
@@ -85,14 +86,14 @@
         "indicator_color": "#fff",
         "cover_background": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(85, 85, 85, 1) 100%)",
         "cover_opacity": 25,
-        "caption_margin": 0,
-        "caption_padding": 0,
+        "caption_margin": 10,
+        "caption_padding": 20,
         "slide_text_color": "#111",
         "caption_background_color": "linear-gradient(177deg, rgba(255, 255, 255, .5) 3%, rgba(255, 255, 255, .85) 100%)",
         "show_glass_effect": true,
         "button_padding_tb": 10,
-        "button_padding_lr": 0,
-        "button_border_radius": 14,
+        "button_padding_lr": 25,
+        "button_border_radius": 5,
         "button_background_color": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(51, 51, 51, 1) 100%)",
         "button_text_color": "#fff",
         "text_shadow": false,
@@ -140,7 +141,7 @@
       "settings": {
         "image": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
         "image_2": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
-        "full_page_height_enable": false
+        "full_page_height_enable": true
       }
     },
     "featured_collection": {
