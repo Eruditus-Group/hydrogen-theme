@@ -13,7 +13,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "header {margin-top: 20px; margin-left:20px; margin-right:20px;}"
+          "header {margin-top: 20px; margin-left: 20px; margin-right: 20px; max-height:1300px;}"
         ],
         "settings": {
           "menu": "main-menu",
@@ -57,12 +57,6 @@
 
     ],
     "blocks": {
-      "13739172200877325563": {
-        "type": "shopify://apps/weaverse-hydrogen/blocks/app-embed/c7f60bfa-c264-4b66-9443-17a891e89870",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "12016176150940211849": {
         "type": "shopify://apps/ot-theme-sections/blocks/otsb-script/45c0d634-d78b-458c-8bca-17086e7d65aa",
         "disabled": false,
@@ -71,12 +65,6 @@
       },
       "11119278427475967885": {
         "type": "shopify://apps/ot-theme-sections/blocks/otsb-style/45c0d634-d78b-458c-8bca-17086e7d65aa",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "pagefly-page-builder": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
         "settings": {
         }
