@@ -306,6 +306,155 @@
       "type": "shogun-custom-67106586772935466dc32876",
       "settings": {
       }
+    },
+    "flexi_rotating_reviews_rCDTDF": {
+      "type": "flexi-rotating-reviews",
+      "blocks": {
+        "reviews_card_kYwmLb": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_VhRadH": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_GRxG9z": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_EcVeJh": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_hn9M7e": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_MTCc8q": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_DJxkYx": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        },
+        "reviews_card_fktGLX": {
+          "type": "reviews-card",
+          "settings": {
+            "heading": "Love your product!",
+            "heading_font_size": 20,
+            "heading_color": "#000000",
+            "description": "We enjoyed X, Y, and Z features about your product. + I use it everyday!",
+            "description_font_size": 16,
+            "description_color": "#000000",
+            "name": "JOHN D., 4/18/23",
+            "name_font_size": 14,
+            "name_color": "#707170",
+            "gap": 6
+          }
+        }
+      },
+      "block_order": [
+        "reviews_card_kYwmLb",
+        "reviews_card_VhRadH",
+        "reviews_card_GRxG9z",
+        "reviews_card_EcVeJh",
+        "reviews_card_hn9M7e",
+        "reviews_card_MTCc8q",
+        "reviews_card_DJxkYx",
+        "reviews_card_fktGLX"
+      ],
+      "settings": {
+        "star_type": "4.5",
+        "icon_size": 16,
+        "reviews_text": "37,776 Verfidied 5-star reviews",
+        "review_url": "",
+        "font_size": 14,
+        "bg_color": "",
+        "font_color": "#707170",
+        "star_color": "#47DE46",
+        "display_options": "bl-hide-none",
+        "width": 1000,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -315,6 +464,7 @@
     "collection_list",
     "featured_collection_QTMfgK",
     "otsb_logo_list_2_MYecKx",
-    "shogun_custom_67106586772935466dc32876_DCYhcB"
+    "shogun_custom_67106586772935466dc32876_DCYhcB",
+    "flexi_rotating_reviews_rCDTDF"
   ]
 }
