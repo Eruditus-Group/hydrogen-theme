@@ -88,6 +88,48 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "1656560654682496077": {
+        "type": "shopify://apps/instant/blocks/instant_core/927e19d9-4e68-41db-99c7-d8debdc1f80d",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "12016176150940211849": {
+        "type": "shopify://apps/ot-theme-sections/blocks/otsb-script/45c0d634-d78b-458c-8bca-17086e7d65aa",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11119278427475967885": {
+        "type": "shopify://apps/ot-theme-sections/blocks/otsb-style/45c0d634-d78b-458c-8bca-17086e7d65aa",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "7270564853718005278": {
+        "type": "shopify://apps/custom-code-inserter-sgtlab/blocks/sgtlab-insert-code/467f5576-dfe0-4e0b-935b-75bafbf7ec76",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "13392549970259155148": {
+        "type": "shopify://apps/xo-insert-code/blocks/insert-code-header/72017b12-3679-442e-b23c-5c62460717f5",
+        "disabled": false,
+        "settings": {
+          "custom_liquid": "",
+          "custom_css": "",
+          "custom_js": ""
+        }
+      },
+      "10148494829067693542": {
+        "type": "shopify://apps/xo-insert-code/blocks/insert-code-body/72017b12-3679-442e-b23c-5c62460717f5",
+        "disabled": false,
+        "settings": {
+          "custom_liquid": "",
+          "custom_css": "",
+          "custom_js": ""
+        }
       }
     }
   }
