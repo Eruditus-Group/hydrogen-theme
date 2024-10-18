@@ -57,6 +57,79 @@
         "products_to_show": 8
       }
     },
+    "otsb_promotion_banner_1_DmwjW9": {
+      "type": "otsb-promotion-banner-1",
+      "blocks": {
+        "image_banner_FpbabV": {
+          "type": "image_banner",
+          "settings": {
+            "heading": "Title Content Banner",
+            "heading_size": 180,
+            "heading_tag": "h2",
+            "subheading": "Example Subheading",
+            "text": "Give custormers details about the banner image(s) or content on the template.",
+            "text_size": 150,
+            "content_box_type": "square",
+            "add_frame": false,
+            "color_content_box_light": "rgba(0,0,0,0)",
+            "color_text": "#FFFFFF"
+          }
+        },
+        "buttons_LQJkgb": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Button Label",
+            "button_link": "",
+            "open_new_window_button": false,
+            "primary_button_1": true,
+            "button_label_2": "Second Button Label",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "primary_button_2": false,
+            "button_type": "square",
+            "button_color_mobile": "color",
+            "button_animation": "fill_up",
+            "custom_icon_button": "",
+            "color_button": "#FFFFFF",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button": "#000000",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "#FFFFFF",
+            "secondary_button_text": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_FpbabV",
+        "buttons_LQJkgb"
+      ],
+      "settings": {
+        "heading": "Promotion Banner",
+        "image": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
+        "image_2": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
+        "image_link": "",
+        "open_new_window": false,
+        "image_overlay_opacity": 40,
+        "image_overlay_color": "rgb(32,32,32)",
+        "content_position": "center",
+        "content_horizontal": 50,
+        "content_vertical": 50,
+        "position_content_mobile": "center",
+        "content_alignment": "center",
+        "show_hero": false,
+        "full_width": true,
+        "padding_full_width": false,
+        "rounded_corner_image": false,
+        "desktop_height": "550px",
+        "padding_top": 0,
+        "padding_bottom": 28,
+        "full_width_mobile": true,
+        "rounded_corner_image_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20
+      }
+    },
     "collection_list": {
       "type": "collection-list",
       "blocks": {
@@ -546,6 +619,7 @@
     "17292797726cba6df6",
     "image_banner",
     "featured_collection",
+    "otsb_promotion_banner_1_DmwjW9",
     "collection_list",
     "featured_collection_QTMfgK",
     "otsb_logo_list_2_MYecKx",
