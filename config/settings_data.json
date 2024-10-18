@@ -58,7 +58,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "6992312409616185448": {
+        "type": "shopify://apps/flexi-theme-library/blocks/app-embed/5a4df4d6-1efe-4f41-80b3-12e6a6deefaf",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {

@@ -455,6 +455,105 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "flexi_hero_Nyank9": {
+      "type": "flexi-hero",
+      "blocks": {
+        "flexi_heading_EGL9yN": {
+          "type": "flexi-heading",
+          "settings": {
+            "heading": "Brand name does X for target audience.",
+            "font_size": 52,
+            "mb_font_size": "0.8",
+            "text_align": "left",
+            "max_width": 552,
+            "justify_content": "left",
+            "font_color": "#FFFFFF",
+            "line_height": 10,
+            "letter_spacing": 0,
+            "display_options": "bl-hide-none",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        },
+        "flexi_review_JYxX4n": {
+          "type": "flexi-review",
+          "settings": {
+            "justify_content": "left",
+            "star_type": "4.5",
+            "icon_size": 16,
+            "reviews_text": "based on 3,210 reviews",
+            "review_url": "",
+            "font_size": 16,
+            "font_color": "#FFFFFF",
+            "star_color": "#FFFFFF",
+            "display_options": "bl-hide-none",
+            "top_padding": 6,
+            "bottom_padding": 6
+          }
+        },
+        "flexi_description_9W84Rm": {
+          "type": "flexi-description",
+          "settings": {
+            "description": "<p>Explain what differentials your product from other products in 1-2 sentences.</p>",
+            "font_size": 18,
+            "mb_font_size": "0.95",
+            "font_color": "#FFFFFF",
+            "text_align": "left",
+            "justify_content": "left",
+            "max_width": 2400,
+            "line_height": 50,
+            "letter_spacing": 0,
+            "display_options": "bl-hide-none",
+            "padding_top": 6,
+            "padding_bottom": 16
+          }
+        },
+        "flexi_button_WHNGri": {
+          "type": "flexi-button",
+          "settings": {
+            "first_button_text": "Shop Now",
+            "first_button_url": "",
+            "btn_1_style": "light-outline",
+            "second_button_text": "",
+            "second_button_url": "",
+            "btn_2_style": "primary",
+            "third_button_text": "",
+            "third_button_url": "",
+            "btn_3_style": "primary",
+            "btn_size": "10px 24px",
+            "justify_content": "left",
+            "font_color": "#FFFFFF",
+            "display_options": "bl-hide-none",
+            "full_width": false,
+            "flex_direction": false,
+            "gap": 12,
+            "top_padding": 0,
+            "bottom_padding": 0
+          }
+        }
+      },
+      "block_order": [
+        "flexi_heading_EGL9yN",
+        "flexi_review_JYxX4n",
+        "flexi_description_9W84Rm",
+        "flexi_button_WHNGri"
+      ],
+      "settings": {
+        "height": "550px",
+        "block_alignment_x": "start",
+        "block_alignment_y": "start",
+        "width": 1200,
+        "bg_color": "",
+        "disable_zoom": false,
+        "image_alignment_x": "center",
+        "image_alignment_y": "center",
+        "overlay_color": "#000000",
+        "opacity": 80,
+        "display_options": "bl-hide-none",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -465,6 +564,7 @@
     "featured_collection_QTMfgK",
     "otsb_logo_list_2_MYecKx",
     "shogun_custom_67106586772935466dc32876_DCYhcB",
-    "flexi_rotating_reviews_rCDTDF"
+    "flexi_rotating_reviews_rCDTDF",
+    "flexi_hero_Nyank9"
   ]
 }
