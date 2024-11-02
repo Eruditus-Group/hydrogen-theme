@@ -105,8 +105,6 @@
       ],
       "settings": {
         "heading": "Promotion Banner",
-        "image": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
-        "image_2": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
         "image_link": "",
         "open_new_window": false,
         "image_overlay_opacity": 40,
@@ -718,98 +716,21 @@
         "line_n_borders_color": "#f2f2f2"
       }
     },
-    "flexi_hero_with_blocks_hga9fn": {
-      "type": "flexi-hero-with-blocks",
-      "blocks": {
-        "flexi_heading_hdy3XG": {
-          "type": "flexi-heading",
-          "settings": {
-            "heading": "Big, bold headline about your brand.",
-            "font_size": 36,
-            "mb_font_size": "0.8",
-            "text_align": "left",
-            "max_width": 432,
-            "justify_content": "left",
-            "font_color": "#000000",
-            "line_height": 10,
-            "letter_spacing": 0,
-            "display_options": "bl-hide-none",
-            "padding_top": 0,
-            "padding_bottom": 0
-          }
-        },
-        "flexi_review_H43WXd": {
-          "type": "flexi-review",
-          "settings": {
-            "justify_content": "left",
-            "star_type": "4.5",
-            "icon_size": 16,
-            "reviews_text": "based on 3,210 reviews",
-            "review_url": "",
-            "font_size": 16,
-            "font_color": "#000000",
-            "star_color": "#000000",
-            "display_options": "bl-hide-none",
-            "top_padding": 6,
-            "bottom_padding": 6
-          }
-        },
-        "flexi_description_k6dNzi": {
-          "type": "flexi-description",
-          "settings": {
-            "description": "<p>Communicate your offer in a clear, concise manner.</p>",
-            "font_size": 18,
-            "mb_font_size": "0.95",
-            "font_color": "#000000",
-            "text_align": "left",
-            "justify_content": "left",
-            "max_width": 2400,
-            "line_height": 50,
-            "letter_spacing": 0,
-            "display_options": "bl-hide-none",
-            "padding_top": 6,
-            "padding_bottom": 12
-          }
-        },
-        "flexi_button_jr4W6x": {
-          "type": "flexi-button",
-          "settings": {
-            "first_button_text": "Shop Now",
-            "first_button_url": "",
-            "btn_1_style": "primary",
-            "second_button_text": "",
-            "second_button_url": "",
-            "btn_2_style": "primary",
-            "third_button_text": "",
-            "third_button_url": "",
-            "btn_3_style": "primary",
-            "btn_size": "10px 24px",
-            "justify_content": "left",
-            "font_color": "#FFFFFF",
-            "display_options": "bl-hide-none",
-            "full_width": false,
-            "flex_direction": false,
-            "gap": 12,
-            "top_padding": 0,
-            "bottom_padding": 0
-          }
-        }
-      },
-      "block_order": [
-        "flexi_heading_hdy3XG",
-        "flexi_review_H43WXd",
-        "flexi_description_k6dNzi",
-        "flexi_button_jr4W6x"
-      ],
+    "pagefly_section_RQnzpF": {
+      "type": "pagefly-section",
       "settings": {
-        "dt_reverse_order": "right",
-        "mb_reverse_order": "top",
-        "grid_layout": "1fr 1fr",
-        "bg_color": "",
-        "display_options": "bl-hide-none",
-        "self_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "section_id": ""
+      }
+    },
+    "pagefly_section_7kQnj8": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-620027dd"
+      }
+    },
+    "xb_278edc1b_bWKyBi": {
+      "type": "xb-278edc1b",
+      "settings": {
       }
     }
   },
@@ -826,6 +747,8 @@
     "flexi_scrollable_cards_tzize9",
     "shogun_custom_html_YcFA6D",
     "otsb_images_collection_1_pJyXN7",
-    "flexi_hero_with_blocks_hga9fn"
+    "pagefly_section_RQnzpF",
+    "pagefly_section_7kQnj8",
+    "xb_278edc1b_bWKyBi"
   ]
 }
