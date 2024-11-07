@@ -732,6 +732,54 @@
       "type": "xb-278edc1b",
       "settings": {
       }
+    },
+    "flexi_instagram_6TY9pY": {
+      "type": "flexi-instagram",
+      "blocks": {
+        "image_Lz9Upn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-PF_DO_NOT_DELETE.jpg"
+          }
+        },
+        "image_gzFwwy": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "image_b3hdPW": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "image_Yw4xAF": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "image_Lz9Upn",
+        "image_gzFwwy",
+        "image_b3hdPW",
+        "image_Yw4xAF"
+      ],
+      "settings": {
+        "instagram_link": "https://www.instagram.com/tomcardenas_/",
+        "mobile_image_count": "2",
+        "heading": "#tom_cardenas_",
+        "heading_font_size": 26,
+        "heading_color": "#000000",
+        "handle": "@BrandName",
+        "handle_font_size": 16,
+        "handle_color": "#000000",
+        "bg_color": "",
+        "display_options": "bl-hide-none",
+        "width": 1200,
+        "gap": 12,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -749,6 +797,7 @@
     "otsb_images_collection_1_pJyXN7",
     "pagefly_section_RQnzpF",
     "pagefly_section_7kQnj8",
-    "xb_278edc1b_bWKyBi"
+    "xb_278edc1b_bWKyBi",
+    "flexi_instagram_6TY9pY"
   ]
 }
