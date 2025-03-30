@@ -75,19 +75,15 @@
           "footer-0",
           "footer-1"
         ],
-        "settings": {
-        }
+        "settings": {}
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
-      "13276880473892151362": {
-        "type": "shopify://apps/xo-builder/blocks/xo-builder/52f85ec6-4036-4682-abec-8ff877cf768b",
+      "pagefly-page-builder": {
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   }
